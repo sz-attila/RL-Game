@@ -6,14 +6,16 @@ TagManager:
   tags:
   - Platform
   - Wall
+  - Enemy
+  - Agent
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - enemy
   - Water
   - UI
-  - 
+  - agent
   - 
   - 
   - 
